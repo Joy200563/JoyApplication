@@ -1,0 +1,2 @@
+# JoyApplication
+Entails developer Options
